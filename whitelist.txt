@@ -590,3 +590,9 @@ youtube-nocookie.com
 youtube-ui.l.google.com
 yt3.ggpht.com
 zecweb.antpool.com
+rod.telemetry.ros.rockstargames.com
+tracking.epicgames.com
+synooauth.synology.com
+events.gfe.nvidia.com
+accounts.nvgs.nvidia.com
+graphql.epicgames.com
