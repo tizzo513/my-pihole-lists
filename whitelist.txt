@@ -596,3 +596,4 @@ synooauth.synology.com
 events.gfe.nvidia.com
 accounts.nvgs.nvidia.com
 graphql.epicgames.com
+gfe.nvidia.com
