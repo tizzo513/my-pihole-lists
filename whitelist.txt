@@ -597,3 +597,5 @@ events.gfe.nvidia.com
 accounts.nvgs.nvidia.com
 graphql.epicgames.com
 gfe.nvidia.com
+cws-hulu.conviva.com
+vortex.hulu.com
