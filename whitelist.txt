@@ -599,3 +599,4 @@ graphql.epicgames.com
 gfe.nvidia.com
 cws-hulu.conviva.com
 vortex.hulu.com
+stats.foldingathome.org
